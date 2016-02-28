@@ -5,6 +5,7 @@
 
 yum install rabbitmq-server
 /etc/init.d/rabbitmq-server start
+pip install virtualenv
 
 virtualenv ./env2.7
 source env2.7/bin/activate
