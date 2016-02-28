@@ -1,5 +1,6 @@
 # django-celery
 ```
+#centos6.7
 #python2.7
 #后台账号：root 密码：qq123456
 
