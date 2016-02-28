@@ -2,6 +2,8 @@
 ```
 #centos6.7
 #python2.7
+#django1.9.2
+#如果不升级python则改下pip_requirements.txt文件django==1.6
 #后台账号：root 密码：qq123456
 
 yum install rabbitmq-server
